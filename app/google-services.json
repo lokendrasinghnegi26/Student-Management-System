@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "291988666993",
+    "project_id": "welcome-f7498",
+    "storage_bucket": "welcome-f7498.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291988666993:android:1067bb56cfe8f75f66f9d0",
+        "android_client_info": {
+          "package_name": "com.lokendrasingh.welcome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291988666993-dpr7489cnccf844e8vebo8qqltemvtrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzVW8eF4TJelcGxyTaxYEBmhkT6HwVHfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291988666993-dpr7489cnccf844e8vebo8qqltemvtrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
