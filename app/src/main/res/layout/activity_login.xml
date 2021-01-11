@@ -26,14 +26,14 @@
 
 
         <EditText
+            android:id="@+id/text_email"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="@string/email"
             android:layout_marginTop="5dp"
             android:ems="10"
+            android:hint="@string/email"
             android:inputType="text"
-            android:textSize="15sp"
-            />
+            android:textSize="15sp" />
 
     </com.google.android.material.textfield.TextInputLayout>
     <com.google.android.material.textfield.TextInputLayout
@@ -47,23 +47,24 @@
 
 
         <EditText
+            android:id="@+id/text_password"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="@string/password"
-            android:ems="10"
             android:layout_marginTop="10dp"
+            android:ems="10"
+            android:hint="@string/password"
             android:inputType="textPassword"
-            android:textSize="15sp"
-             />
+            android:textSize="15sp" />
 
     </com.google.android.material.textfield.TextInputLayout>
+
     <Button
+        android:id="@+id/button_login"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/login"
         android:layout_marginTop="10dp"
         android:background="@drawable/rounded_button"
-        />
+        android:text="@string/login" />
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
