@@ -5,4 +5,9 @@
     <string name="confirmPassword">Confirm Password</string>
     <string name="Button">Register</string>
     <string name="login">Login</string>
+    <string name="Name">Name</string>
+    <string name="Gender">Gender</string>
+    <string name="father">Father Name</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
 </resources>
