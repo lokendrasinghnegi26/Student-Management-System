@@ -10,4 +10,6 @@
     <string name="father">Father Name</string>
     <string name="Male">Male</string>
     <string name="Female">Female</string>
+    <string name="textview1">NAME</string>
+    <string name="fathername">Father Name</string>
 </resources>
